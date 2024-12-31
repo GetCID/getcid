@@ -1,7 +1,7 @@
 ### GetCID / Get Confirmation id Service for all Microsoft Office & Windows 
 
 - 🌟 **GetCID for Microsoft Office and Windows Products**  
-  Generate Confirmation IDs for Office versions (2021, 2019, 2016, 2013, 2010) and Windows versions (11, 10, 8, 7).  
+  GetCID or Generate Confirmation IDs for Office versions (2021, 2019, 2016, 2013, 2010) and Windows versions (11, 10, 8, 7).  
   🔗 [GetCID Services](https://msconfirmationid.com/get-confirmation-id/)
 
 - 🚀 **GetCID Telegram Bot**  
