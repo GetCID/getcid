@@ -6,7 +6,7 @@
 
 - 🚀 **GetCID Telegram Bot**  
   Automate CID generation using a simple and efficient Telegram interface.  
-  🔗 [Telegram Bot](https://t.me/GetCID_Official_Bot)
+  🔗 [Telegram Bot](https://t.me/GETCIDOfficialBot)
    - You can even send image of installation id to bot & Get CID, no need to type anymore.
 
 - 🛠️ **GetCID API**  
